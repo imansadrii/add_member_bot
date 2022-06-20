@@ -9,7 +9,6 @@ pip3 install jdatetime
 pip3 install pymysql
 pip3 install requests
 pip3 install psutil
-(فقط بار اول) py.db python3
 python3 run.py
 1 .فایل "py.config “را باز کرده و متغیر های روبه رو را تنظیم کنید:
 نصب توسط تیم اسکریپت نویسان:
@@ -22,3 +21,7 @@ python3 run.py
 ‘یوزرنیم دیتابیس’ = db_user
 ‘پسورد دیتابیس’ = db_passwd
 2 .اجرای دستوارت در محیط ترمینال به ترتیب:
+
+
+(فقط بار اول) py.db python3
+
